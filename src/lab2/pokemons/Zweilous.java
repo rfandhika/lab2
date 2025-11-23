@@ -11,6 +11,6 @@ public class Zweilous extends Deino {
 
         setStats(75, 85,70, 65,70,58);
 
-        setMove(new Headbutt(), new Crunch(), new DoubleHit());
+        setMove(new DoubleHit());
     }
 }

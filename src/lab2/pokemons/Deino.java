@@ -13,4 +13,7 @@ public class Deino extends Pokemon {
 
         setMove (new Headbutt(), new Crunch());
     }
+
+    public Deino() {
+    }
 }
